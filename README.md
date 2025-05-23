@@ -102,7 +102,7 @@ Swiggy-Instamart-Analysis/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Swiggy-Instamart-Analysis.git
+   git clone https://github.com/Fouzia0298/Swiggy-Instamart-Analysis.git
 
 2. Open Swiggy.ipynb in Google Colab .
 3. Upload the dataset files (Customers.csv, Orders.csv, OrderDetails.csv) or connect to Google Drive.
