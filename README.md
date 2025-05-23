@@ -53,18 +53,38 @@ The analysis was conducted using **Google Colab**, with visualizations powered b
 - Cancelled orders accounted for **₹63,304**
   
 ### 📊 Sample Visualizations
+# Swiggy Instamart Data Analysis
 
-#### Revenue by City
+## 📊 Key Visualizations
+
+Here are some key visualizations from the analysis:
+
+#### 1. Revenue by City
 ![Revenue by City](Images/revenue_by_city.png)
 
-#### Sales by Delivery Status
+#### 2. Revenue by City and delivery status
+![Revenue by City and delivery status](Images/revenue_by_city_and_delivery_status.png).
+
+#### 3. Sales by Delivery Status
 ![Delivery Status Bar Chart](Images/delivery_status_bar.png)
 
-#### Order Status Distribution
+#### 4. Customer Distribution by City
+![Customer Distribution](Images/customer_distribution.png)
+
+#### 5. Order Status Distribution
 ![Pie Chart - Delivery Status](Images/delivery_status_pie.png)
 
-#### Customer Distribution by City
-![Customer Distribution](Images/customer_distribution.png)
+#### 6. Top Products by Quantity Sold
+![Top Products by Quantity Sold](Images/top_products_quantity_sold.png)
+
+#### 7. Daily Order Trends
+![Daily Order Trends](images/daily_order_trends.png)
+
+#### 8. Average Order Value by City
+![Average Order Value by City](images/avg_order_value_city.png)
+
+#### 9. Revenue Contribution by Product
+![Revenue Contribution by Product](Images/revenue_contribution_product.png)
 
 ---
 
