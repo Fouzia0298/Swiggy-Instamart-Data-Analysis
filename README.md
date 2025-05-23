@@ -52,18 +52,16 @@ The analysis was conducted using **Google Colab**, with visualizations powered b
 - Delivered orders generated **₹3,157,184**
 - Cancelled orders accounted for **₹63,304**
   
-### 📊 Sample Visualizations
-# Swiggy Instamart Data Analysis
 
 ## 📊 Key Visualizations
 
 Here are some key visualizations from the analysis:
 
 #### 1. Revenue by City
-![Revenue by City](Images/revenue_by_city.png)
+![Revenue by City](https://github.com/Fouzia0298/Swiggy-Instamart-Data-Analysis/blob/main/Images/revenue%20by%20city.png)
 
 #### 2. Revenue by City and delivery status
-![Revenue by City and delivery status](Images/revenue_by_city_and_delivery_status.png).
+![Revenue by City and delivery status](https://github.com/Fouzia0298/Swiggy-Instamart-Data-Analysis/blob/main/Images/revenue_by_city%20and%20delivery%20status.png)
 
 #### 3. Sales by Delivery Status
 ![Delivery Status Bar Chart](Images/delivery_status_bar.png)
@@ -78,10 +76,10 @@ Here are some key visualizations from the analysis:
 ![Top Products by Quantity Sold](Images/top_products_quantity_sold.png)
 
 #### 7. Daily Order Trends
-![Daily Order Trends](images/daily_order_trends.png)
+![Daily Order Trends](Images/daily_order_trends.png)
 
 #### 8. Average Order Value by City
-![Average Order Value by City](images/avg_order_value_city.png)
+![Average Order Value by City](Images/avg_order_value_city.png)
 
 #### 9. Revenue Contribution by Product
 ![Revenue Contribution by Product](Images/revenue_contribution_product.png)
@@ -94,6 +92,7 @@ Swiggy-Instamart-Analysis/
 ├── Customers.csv
 ├── Orders.csv
 ├── OrderDetails.csv
+├── Images
 ├── Swiggy.ipynb # Google Colab notebook
 └── README.md # This file
 ```
