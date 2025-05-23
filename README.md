@@ -55,16 +55,17 @@ The analysis was conducted using **Google Colab**, with visualizations powered b
 ### 📊 Sample Visualizations
 
 #### Revenue by City
-![Revenue by City](images/revenue_by_city.png)
+![Revenue by City](Images/revenue_by_city.png)
 
 #### Sales by Delivery Status
-![Delivery Status Bar Chart](images/delivery_status_bar.png)
+![Delivery Status Bar Chart](Images/delivery_status_bar.png)
 
 #### Order Status Distribution
-![Pie Chart - Delivery Status](images/delivery_status_pie.png)
+![Pie Chart - Delivery Status](Images/delivery_status_pie.png)
 
 #### Customer Distribution by City
-![Customer Distribution](images/customer_distribution.png)
+![Customer Distribution](Images/customer_distribution.png)
+
 ---
 
 ## 📁 Folder Structure
